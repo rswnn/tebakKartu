@@ -1,0 +1,64 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  position: relative;
+  text-align: center;
+}
+.btn {
+  width: 100px;
+  height: 35px;
+  margin: 70px auto;
+}
+.img1 {
+  position: relative;
+  margin-right: 300px;
+}
+.img2 {
+  position: absolute;
+  right: 100px;
+  bottom: 0px;
+}
+.img3 {
+  position: relative;
+  margin-right: 300px;
+  top: 30px;
+}
+.img4 {
+  position: absolute;
+  right: 100px;
+  bottom: -27px;
+}
+
+body {
+  background-color: green;
+}
+
+h1 {
+  margin:  30px;
+  font-family: 'Ubuntu', sans-serif;
+  text-shadow: 5px 0 #232931;
+  font-size: 4rem;
+  color: #fff;
+}
+p {
+  font-size: 2rem;
+  color: #4ecca3;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 20%;
+  border: solid 3px ;
+  border-radius: 10%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #eeeeee;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+}
